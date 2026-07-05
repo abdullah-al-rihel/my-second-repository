@@ -1,0 +1,31 @@
+.aaa{
+
+
+    background-color: rgb(218, 83, 5);
+    height: 300px;
+    width: 300px;
+    
+    margin-top: 50px;
+    border:20px   dotted burlywood;
+  padding-left: 50px;
+
+}
+
+
+.bb{
+
+    margin-top:30px;
+    background-color:rgb(253, 154, 5);
+ height: 300px;
+    width: 300px;
+
+   border-top:20px solid black;
+   border-left:20px dashed rgb(0, 255, 34);
+   padding: 20px;
+}
+
+.rrr{
+    background-color: black;
+    display:flex;
+    gap: 50px;
+}
